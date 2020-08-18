@@ -1,13 +1,14 @@
 # node_blog
 nodejs、express、koa2、pm2、redis、mysql 搭建一个博客 具有增删改查功能
 
+## 展示图片
 ![avatar](./img/1.png)
 ![avatar](./img/2.png)
 ![avatar](./img/3.png)
 ![avatar](./img/4.png)
 
 
-# 运行
+## 运行
 
 1.运行nginx mysql
 
